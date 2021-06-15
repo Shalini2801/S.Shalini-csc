@@ -11,7 +11,7 @@ print(c,"+",50,"=",b+50)
 print("2.Create a String variable of 5 characters and replace the 3rd character with G")
 str="ABCDE"
 print("Length of the string is:",len(str))
-s1="E"
+s1="C"
 s2="G"
 print("new string after replacement:",str.replace(s1,s2))
 print("3.Create two values (a,b) of int,float data type & convert the vise versa")
